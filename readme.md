@@ -3,7 +3,7 @@
 
 My submission for WWDC'22 SSC. I was of the opinion that the quadratic formula is something that we teach every student and yet it’s unclear why. They are never going to use it. Being a developer myself - I should have known it better before having this hypothesis because while writing an unreleased game likely (and hopefully) to be released on Apple Arcade, I found out more about hybrid rendering with Metal ray tracing, and just ray tracing in general, where the quadratic formula is used all the time to come up with graphs for how close a particular light source is to an object as a function of time. That's why I decided to write eoqe.
 
-100% of the animations are made using [manim](https://github.com/3b1b/manim) by [3Blue1Brown](https://www.youtube.com/c/3blue1brown). Futhermore, all the interative graphs towards the end are drawn using custom paths & CGPath in SwiftUI.
+**100% of the animations are made using [manim](https://github.com/3b1b/manim) by [3Blue1Brown](https://www.youtube.com/c/3blue1brown). Futhermore, all the interative graphs towards the end are drawn using custom paths & CGPath in SwiftUI.**
 
 ***
 ### Images
