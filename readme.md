@@ -1,4 +1,7 @@
 # [Accepted] eoqe
+
+Update: My submission won Apple's WWDC'22 SSC award!
+
 ### Essence of Quadratic Equations
 
 My submission for WWDC'22 SSC. I was of the opinion that the quadratic formula is something that we teach every student and yet it’s unclear why. They are never going to use it. Being a developer myself - I should have known it better before having this hypothesis because while writing an unreleased game likely (and hopefully) to be released on Apple Arcade, I found out more about hybrid rendering with Metal ray tracing, and just ray tracing in general, where the quadratic formula is used all the time to come up with graphs for how close a particular light source is to an object as a function of time. That's why I decided to write eoqe.
